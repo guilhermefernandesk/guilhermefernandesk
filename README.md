@@ -45,8 +45,11 @@ I'm a passionate frontend and mobile developer from Brazil. Currently, I'm pursu
 
 ## 🚀 Highlight Projects
 
-<a href="https://github.com/guilhermefernandesk/Projeto-Cafeteira-Bluetooth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermefernandesk&repo=Projeto-Cafeteira-Bluetooth&show_owner=false" />
+<a href="https://github.com/guilhermefernandesk/ESP32-C6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermefernandesk&repo=ESP32-C6&show_owner=false" />
+</a>
+<a href="https://github.com/guilhermefernandesk/Bee-Counting-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermefernandesk&repo=Bee-Counting-Project&show_owner=false" />
 </a>
 
 ## 🏆 GitHub Trophies
